@@ -1,0 +1,61 @@
+.main{
+   display:flex; 
+    width: full;
+    margin: 0px;
+}
+
+.container1{
+    background-image: url("images/tomato.jpg");
+    width: 50%;
+     background-size: cover;
+    display:flex;
+    flex-direction:column;
+    background-position:bottom;
+    justify-content: flex-end;
+}
+.content{
+    padding:10px 70px;
+    
+}
+.container2{
+    width: 50%;
+    height: 100%;
+    display:flex;
+    flex-direction:column;
+    
+}
+.benefit{
+    background-image: url("images/avocado2.jpg");
+    height: 50%;
+    background-size: cover;
+    background-position:center;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+
+.value{
+    background-image: url("images/pomegranate.jpg");
+    height: 50%;
+    background-size: cover;
+    background-position: bottom;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+h1{
+    color: white;
+     font-family: 'Shadows Into Light', cursive;
+    font-weight: bold;
+   line-height: 90px;
+    font-size: 80px;   
+}
+
+p{
+    color:white;
+    font-family: 'Spartan', sans-serif;
+    font-size: 18px;
+    font-weight: 200;
+}
