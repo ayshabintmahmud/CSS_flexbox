@@ -1,0 +1,64 @@
+body {
+  background-color: #1d1f47;
+  display: flex;
+  font-family: "Spartan", sans-serif;
+}
+
+.testimonials {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  margin: 50px 50px;
+}
+#shift {
+  align-self: flex-start;
+}
+
+.explanation {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  color: #d5cac6;
+  margin: 150px 100px;
+}
+
+.content {
+  background-color: white;
+  width: 400px;
+  height: 100px;
+  margin-top: 50px;
+  border-radius: 4px;
+  display: flex;
+  align-content: center;
+}
+
+.heading {
+  font-size: 64px;
+
+  margin-block-end: 0px;
+}
+
+.paragrap {
+  margin-top: 0px;
+  padding-top: 0px;
+  font-size: 24px;
+}
+
+.image {
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  padding: 20px 20px;
+}
+
+.author {
+  font-weight: bold;
+}
+p {
+  margin-block-end: 0px;
+}
