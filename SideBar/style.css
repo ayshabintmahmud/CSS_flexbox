@@ -1,0 +1,111 @@
+body{
+    display: flex;
+        margin:0px;
+    font-family: 'Poppins', sans-serif;
+}
+.sidebar{
+    width: 20%;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.footer{
+    margin-top: 300px;
+    padding: 0px 10px;
+    font-size: 13px;
+    color: darkgrey
+    
+}
+.logo{
+    background-color:ghostwhite;
+    text-align: center;
+    padding: 20px 50px;
+   
+    
+}
+.logo h1{
+    
+    font-weight:900;
+}
+
+.logo p{
+    
+    font-weight:100;
+    font-size: 16px;
+}
+
+
+.main{
+    position:relative;
+    width:80%;
+    display: flex;
+    flex-direction: row-reverse;
+    
+    justify-content: space-between;
+    align-items: flex-end;
+    padding: 30px 50px;
+    background-image: url("images/singleoffice.jpg");
+    background-position: center;
+    background-size:cover;  
+}
+.main h1 {
+ font-size: 65px;
+    color: white;
+  
+    
+}
+.main p{
+    color:white;
+    
+    font-size: 18px;
+    
+}
+.main::before{
+    content: "";
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    background-color: rgba(0,0,0,0.10);
+     
+    
+    
+}
+h1{
+    padding: 0px;
+    margin: 0px;
+}
+p{
+   padding: 0px;
+    margin: 0px; 
+}
+span{
+    font-weight: bolder;
+}
+.content1{
+    width: 30%;
+    height:100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+    top: 50px
+}
+.content2{
+    line-height: 80px;
+}
+.info{
+ list-style: none;
+    color:darkgrey;
+    font-size: 16px;
+   
+   
+}
+li{
+     padding-top:50px;
+}
+.logo p{
+    font-size: 14px;
+    color: darkgrey;
+}
