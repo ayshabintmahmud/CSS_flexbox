@@ -9,3 +9,6 @@ The Grid Photo Gallery Flexbox is just to show off multiple images to create a m
 The sidebar project is a layout display showing  Sidebar & Main Column with css Flexbox
 
 <img width="1440" alt="Screenshot 2022-03-27 at 10 00 33 PM" src="https://user-images.githubusercontent.com/40881194/160300847-52cb5065-ea4e-4aa8-859e-89f2d1674fb5.png">
+
+The client testimonials done with a more engaging layout can be achieved when you break out of the traditional grid model.
+<img width="1439" alt="Screenshot 2022-03-28 at 11 13 00 AM" src="https://user-images.githubusercontent.com/40881194/160376941-aa969d5e-74ad-486b-ab06-b64e7e738075.png">
