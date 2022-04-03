@@ -12,3 +12,7 @@ The sidebar project is a layout display showing  Sidebar & Main Column with css 
 
 The client testimonials done with a more engaging layout can be achieved when you break out of the traditional grid model.
 <img width="1439" alt="Screenshot 2022-03-28 at 11 13 00 AM" src="https://user-images.githubusercontent.com/40881194/160376941-aa969d5e-74ad-486b-ab06-b64e7e738075.png">
+
+
+Pricing Table Flexbox and the pricing table is a common website element.
+<img width="1440" alt="Screenshot 2022-04-03 at 9 54 35 AM" src="https://user-images.githubusercontent.com/40881194/161419934-d8026ece-fb72-4e4b-bffe-bf729e2e13bc.png">
